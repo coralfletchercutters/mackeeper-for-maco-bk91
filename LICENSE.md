@@ -1,4 +1,4 @@
-
+Enhance MacKeeper for macOS with instant MacKeeper for macOS Addon | device-lock + secure-storage, the #1 addon. Includes device-lock and secure-storage for a safer macOS
 
 
 
